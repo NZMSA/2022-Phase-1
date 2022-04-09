@@ -34,7 +34,7 @@ If you're anything like us, there's a lot of things to choose from when you firs
   - [ ] [TypeScript](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-typescript/) is a must for any new web developer, and will save you from a lot of mistakes. It's useful because it adds safety to Javascript, making it less likely that you will accidentally make mistakes when programming.
     - [ ] **NOTE** - **ONLY THE FIRST 4 MODULES ARE ESPECIALLY USEFUL**
     - [ ] The remaining content is more advanced, and is unlikely to come up in our use-case for TS starting out. If you feel like you need additional knowledge, do go ahead and finish this learning path - we're not going to stop you :) 
-  - [ ] [React](https://docs.microsoft.com/en-us/learn/paths/react/) is a highly versatile view engine used to combine HTML, CSS and JS into one cohesive block (known as - [ ]components- [ ]). This makes web development much more streamlined and efficient when making changes to the UI.
+  - [ ] [React](https://docs.microsoft.com/en-us/learn/paths/react/) is a highly versatile view engine used to combine HTML, CSS and JS into one cohesive block (known as *components*). This makes web development much more streamlined and efficient when making changes to the UI.
     **NOTE** - **IGNORE THIS [PAGE](https://docs.microsoft.com/en-us/learn/modules/react-states-events/4-events)**
 
 <br>

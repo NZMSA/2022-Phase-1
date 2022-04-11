@@ -1,11 +1,13 @@
 # MSA Phase 1 2022
 
 ## Welcome Students
+
 Welcome to the first phase of the Microsoft Student Accelerator for 2022! This is a short overview of what is in the first phase of the programme, as well as a brief overview of what you need to do to successfully complete the first phase.
 
 --INSERT SOME INSPIRATIONAL WORDS HERE==
 
 ## Phase 1 Requirements
+
 You're probably here for the nitty gritty on how to pass phase 1. There is one main requirement to pass phase 1:
 
 - [ ] Get 34,000XP on your MS Learn account
@@ -13,13 +15,14 @@ You're probably here for the nitty gritty on how to pass phase 1. There is one m
 That's it. Yeah. Just sign up for [MS Learn](https://docs.microsoft.com/en-us/learn/), start doing some learning, and accumulate that much XP.
 
 ## Recommended Modules for Phase 2
+
 If you're anything like us, there's a lot of things to choose from when you first hit the [MS Learn](https://docs.microsoft.com/en-us/learn/) website ranging from the incredibly difficult and alien to things that might not necessarily be useful. We've decided to help out, and have compiled a list of modules that we think will be highly useful as foundational knowledge going into Phase 2:
 
 <br>
 
 - [ ] Developer Tools
   - [ ] [Git](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/) is a Version Control System (VCS) which is useful for collaborating with others, but also acts as a save system for developers to checkpoint their own progress (and to re-load from bad decisions and their consequences).
-  
+
 <br>
 
 - [ ] Programming Languages
@@ -33,9 +36,9 @@ If you're anything like us, there's a lot of things to choose from when you firs
   - [ ] [JavaScript](https://docs.microsoft.com/en-us/learn/paths/web-development-101/) is the fundamental language for running code on the browser. This is what is leveraged (usually) to create rich and seamless user interfaces and experiences on the web.
   - [ ] [TypeScript](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-typescript/) is a must for any new web developer, and will save you from a lot of mistakes. It's useful because it adds safety to Javascript, making it less likely that you will accidentally make mistakes when programming.
     - [ ] **NOTE** - **ONLY THE FIRST 4 MODULES ARE ESPECIALLY USEFUL**
-    - [ ] The remaining content is more advanced, and is unlikely to come up in our use-case for TS starting out. If you feel like you need additional knowledge, do go ahead and finish this learning path - we're not going to stop you :) 
-  - [ ] [React](https://docs.microsoft.com/en-us/learn/paths/react/) is a highly versatile view engine used to combine HTML, CSS and JS into one cohesive block (known as *components*). This makes web development much more streamlined and efficient when making changes to the UI.
-    **NOTE** - **IGNORE THIS [PAGE](https://docs.microsoft.com/en-us/learn/modules/react-states-events/4-events)**
+    - [ ] The remaining content is more advanced, and is unlikely to come up in our use-case for TS starting out. If you feel like you need additional knowledge, do go ahead and finish this learning path - we're not going to stop you :)
+  - [ ] [React](https://docs.microsoft.com/en-us/learn/paths/react/) is a highly versatile view engine used to combine HTML, CSS and JS into one cohesive block (known as _components_). This makes web development much more streamlined and efficient when making changes to the UI.
+        **NOTE** - **IGNORE THIS [PAGE](https://docs.microsoft.com/en-us/learn/modules/react-states-events/4-events)**
 
 <br>
 
@@ -51,9 +54,10 @@ If you're anything like us, there's a lot of things to choose from when you firs
 <br>
 
 ## Recommended Schedule
+
 That's a LOT of modules - and we're sure that a lot of you are probably feeling quite overwhelmed right now (we definitely were when we did this). To help break this up into something more manageable, we have provided a recommended schedule for completing the modules, and their corresponding workshop tasks.
 
-*You do not need to follow this schedule, provided that you meet the course requirements specified earlier.*
+_You do not need to follow this schedule, provided that you meet the course requirements specified earlier._
 
 --TODO: Hyperlink the workshops here when done--
 
@@ -66,7 +70,7 @@ That's a LOT of modules - and we're sure that a lot of you are probably feeling 
   - [ ] Second half of [Python](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) (that's the second **6** modules)
   - [ ] Python Workshop
 - [ ] Week 4 (6 MAY - 12 MAY)
-  - [ ] [RESTful APIs](https://docs.microsoft.com/en-us/learn/modules/build-web-api-minimal-api/) 
+  - [ ] [RESTful APIs](https://docs.microsoft.com/en-us/learn/modules/build-web-api-minimal-api/)
   - [ ] API Workshop
   - [ ] [Relational Databases](https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/)
   - [ ] Database Workshop
@@ -92,6 +96,7 @@ That's a LOT of modules - and we're sure that a lot of you are probably feeling 
 <br>
 
 ## Recommended Tools
+
 As you go through and do these modules, you'll find that you need quite a few tools to complete some of the workshops as well as the modules. To help facilitate this process of trying to get everything downloaded, we've compiled a list here:
 
 - [ ] Required Tools
@@ -108,13 +113,14 @@ As you go through and do these modules, you'll find that you need quite a few to
   - [ ] [Fork](https://git-fork.com/) is meant to be paid, but it doesn't lock you out of anything if your trial expires so **shhhh**. Makes managing and visualising git much easier
 
 ## Hot Tips
-* Managing your time well is always good - it's enough content that trying to do it all in one week is going to be a struggle!
-* Forking this repository is a good idea:
-    * You can do that by clicking the fork button on this site in the upper right corner (see below)
+
+- Managing your time well is always good - it's enough content that trying to do it all in one week is going to be a struggle!
+- Forking this repository is a good idea:
+  - You can do that by clicking the fork button on this site in the upper right corner (see below)
 
 ![picture 1](images/5e847b634669abbf90bac813242e2a212dde2b23f539ffcd7753ced26ef14b32.png)
 
-* This is useful, because it will allow you to fill in the checklists on this page!
+- This is useful, because it will allow you to fill in the checklists on this page!
 
-- [ ] This is an empty checklist item
-  - [X] This is a completed checklist item! you can complete checklist items by opening up this README file in edit mode, and putting an **X** character between the open square brackets.
+* [ ] This is an empty checklist item
+  - [x] This is a completed checklist item! you can complete checklist items by opening up this README file in edit mode, and putting an **X** character between the open square brackets.

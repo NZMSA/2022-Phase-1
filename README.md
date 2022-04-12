@@ -95,7 +95,7 @@ We have also created small modular workshops for each section of MS Learn. **The
   - [ ] [9. TypeScript workshop](//TODO_INSERT_LINK_HERE)
 - [ ] Week 10 (17 JUN - 23 JUN)
   - [ ] [React](https://docs.microsoft.com/en-us/learn/paths/react/)
-  - [ ] [10. React workshop](./10.%20React%20Workshop/)
+  - [ ] [10. React workshop](./10.%20React%20workshop/)
 - [ ] Spend the next 4 days relaxing - you're done!!!
 
 ---

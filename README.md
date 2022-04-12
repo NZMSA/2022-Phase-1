@@ -1,99 +1,104 @@
-# MSA Phase 1 2022
+# :fire: MSA Phase 1 2022 :fire:
 
-## Welcome Students
+## :tada: :sparkles: Welcome students to Phase 1 :sparkles: :tada:
 
-Welcome to the first phase of the Microsoft Student Accelerator for 2022! This is a short overview of what is in the first phase of the programme, as well as a brief overview of what you need to do to successfully complete the first phase.
+Welcome to the first phase of the Microsoft Student Accelerator for 2022!
 
---INSERT SOME INSPIRATIONAL WORDS HERE==
+This repository contains all the necessary material to complete Phase 1 of the program.
 
-## Phase 1 Requirements
+Please refer to this README for guidance. If you are unsure of anything please reach out in our Discord channel and one of our handy-dandy MSP's are more than happy to help you out :simple_smile:
 
-You're probably here for the nitty gritty on how to pass phase 1. There is one main requirement to pass phase 1:
+---
 
-- [ ] Get 34,000XP on your MS Learn account
+## Phase 1 Requirements :pencil:
 
-That's it. Yeah. Just sign up for [MS Learn](https://docs.microsoft.com/en-us/learn/), start doing some learning, and accumulate that much XP.
+**To pass Phase 1, students are required to complete / obtain 34,000 XP on your Microsoft Learn Account.**
 
-## Recommended Modules for Phase 2
+Sign up for Microsoft (MS) Learn [here](https://docs.microsoft.com/en-us/learn/) and start accumulating points by completeing the modules! Pick and choose modules which resonate with you or follow our recommended modules below!
 
-If you're anything like us, there's a lot of things to choose from when you first hit the [MS Learn](https://docs.microsoft.com/en-us/learn/) website ranging from the incredibly difficult and alien to things that might not necessarily be useful. We've decided to help out, and have compiled a list of modules that we think will be highly useful as foundational knowledge going into Phase 2:
+---
 
-<br>
+## Recommended Modules :mortar_board:
 
-- [ ] Developer Tools
-  - [ ] [Git](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/) is a Version Control System (VCS) which is useful for collaborating with others, but also acts as a save system for developers to checkpoint their own progress (and to re-load from bad decisions and their consequences).
+There are a plethora of modules within MS Learn ranging from incredibly difficult to things that might not necessarily be useful in your particular field of interest. We've decided to help you out and have hand-picked a list of modules that we (MSP's) think will be very useful for you in your career in tech and moving onto the next phase in the MSA program.
 
-<br>
+### Developer tools
 
-- [ ] Programming Languages
-  - [ ] [Python](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) is an incredibly useful scripting language used widely in the data science community, but is also useful for creating small pieces of supportive code
-  - [ ] [C-Sharp](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/), also known as .NET, is a language that is widely used in the industry for a variety of applications from front-end web apps all the way to back-end APIs. It comes in many different varieties, but the core principles are the same.
+- [ ] [Git](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/) is a Version Control System (VCS) which is useful for collaborating with others, but also acts as a save system for developers to checkpoint their own progress (and to re-load from bad decisions and their consequences).
 
-<br>
+### Programming Languages
 
-- [ ] Web Development
-  - [ ] [HTML & CSS](https://docs.microsoft.com/en-us/learn/modules/build-simple-website/) are the backbone of any web-page. Knowing what these are and how they are structured is fundamental for doing any web development work.
-  - [ ] [JavaScript](https://docs.microsoft.com/en-us/learn/paths/web-development-101/) is the fundamental language for running code on the browser. This is what is leveraged (usually) to create rich and seamless user interfaces and experiences on the web.
-  - [ ] [TypeScript](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-typescript/) is a must for any new web developer, and will save you from a lot of mistakes. It's useful because it adds safety to Javascript, making it less likely that you will accidentally make mistakes when programming.
-    - [ ] **NOTE** - **ONLY THE FIRST 4 MODULES ARE ESPECIALLY USEFUL**
-    - [ ] The remaining content is more advanced, and is unlikely to come up in our use-case for TS starting out. If you feel like you need additional knowledge, do go ahead and finish this learning path - we're not going to stop you :)
-  - [ ] [React](https://docs.microsoft.com/en-us/learn/paths/react/) is a highly versatile view engine used to combine HTML, CSS and JS into one cohesive block (known as _components_). This makes web development much more streamlined and efficient when making changes to the UI.
-        **NOTE** - **IGNORE THIS [PAGE](https://docs.microsoft.com/en-us/learn/modules/react-states-events/4-events)**
+- [ ] [Python](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) is an incredibly useful scripting language used widely in the data science community, but is also useful for creating small pieces of supportive code
+- [ ] [C#](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/) is a programming language created by Microsoft and is used in a wide range of industry applications from front-end web applications to back-end APIs. Often combined with [.NET](https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet) which is an open source developer platform, created by Microsoft, for building many different types of applications.
 
-<br>
+### Web Development
 
-- [ ] APIs
-  - [ ] [RESTful APIs](https://docs.microsoft.com/en-us/learn/modules/build-web-api-minimal-api/) are an implementation of API for accessing information and providing a service without needing to implement a UI. These are useful as they allow developers to perform operations that are quite complex without developing the solution themselves, thus saving time.
-  - [ ] [Relational Databases](https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/) are a way to represent stored data, which can then later be used or returned. For example, when a user signs up for a site, that user's sign up information will likely be stored in one of these.
+- [ ] [HTML & CSS](https://docs.microsoft.com/en-us/learn/modules/build-simple-website/) are the backbone of any web-page. Knowing what these are and how they are structured is fundamental for doing any web development work.
+- [ ] [JavaScript](https://docs.microsoft.com/en-us/learn/paths/web-development-101/) is the fundamental language for running code on the browser. This is what is leveraged (usually) to create rich and seamless user interfaces and experiences on the web.
+- [ ] [TypeScript](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-typescript/) is an open-source language by Microsoft which builds upon the original syntax of JavaScript. It provides features such as static type definitions, classes and interfaces which makes it easier for developers to resolve issues, as your application becomes larger. **NOTE** - **ONLY THE FIRST 4 MODULES ARE ESPECIALLY USEFUL** - The remaining content is more advanced, and is unlikely to come up in our use-case for TS starting out. If you feel like you need additional knowledge, go ahead and finish this learning path - we're not going to stop you :smile:
+- [ ] [React](https://docs.microsoft.com/en-us/learn/paths/react/) is a highly versatile view engine used to combine HTML, CSS and JS into one cohesive block (known as _components_). This makes web development much more streamlined and efficient when making changes to the UI. **NOTE** - **IGNORE THIS [PAGE](https://docs.microsoft.com/en-us/learn/modules/react-states-events/4-events)**
 
-<br>
+### APIs
 
-- [ ] AI/Machine Learning
-  - [ ] [AI and Machine Learning](https://docs.microsoft.com/en-us/learn/paths/get-started-with-artificial-intelligence-on-azure/) are complex topics, and are hard to wrap your head around without a lot of pre-requisite knowledge. To help dip your toes in, we've linked in a module for helping explain the basics at a higher-level.
+- [ ] [RESTful APIs](https://docs.microsoft.com/en-us/learn/modules/build-web-api-minimal-api/) are an implementation of API for accessing information and providing a service without needing to implement a UI. These are useful as they allow developers to perform operations that are quite complex without developing the solution themselves, thus saving time.
 
-<br>
+### Databases
 
-## Recommended Schedule
+- [ ] [Relational Databases](https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/) are a way to represent stored data. This can be used in combination with an API to create, read, update or delete entries in the database. For example, if you have a website where users are prompted to sign up with user credentials, that user's sign up information will likely be stored using a Relational Database.
 
-That's a LOT of modules - and we're sure that a lot of you are probably feeling quite overwhelmed right now (we definitely were when we did this). To help break this up into something more manageable, we have provided a recommended schedule for completing the modules, and their corresponding workshop tasks.
+### AI/Machine Learning
 
-_You do not need to follow this schedule, provided that you meet the course requirements specified earlier._
+- [ ] [AI and Machine Learning](https://docs.microsoft.com/en-us/learn/paths/get-started-with-artificial-intelligence-on-azure/) are complex topics, and are hard to wrap your head around without a lot of pre-requisite knowledge. To help dip your toes in, we've linked in a module for helping explain the basics at a high-level.
+
+---
+
+## Recommended Schedule :books:
+
+That's a LOT of modules - and we're sure that a lot of you are probably feeling quite overwhelmed right now (we definitely were when we did this).
+
+To help you out, we've created a schedule which will allow you to complete all of the recommended modules and also meet the requirements to pass Phase 1!
+
+We have also created small modular workshops for each section of MS Learn. **These workshops intended for you to solidify your understanding and are optional. To pass Phase 1 all you will have to do is obtain 34,000 MS learn XP on your account.**
 
 --TODO: Hyperlink the workshops here when done--
 
+### Checklist :white_check_mark:
+
 - [ ] Week 1 (15 APR - 21 APR)
-  - [ ] [Git](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/) & [Git Workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/Git%20Workshop)
-  - [ ] [AI and Machine Learning](https://docs.microsoft.com/en-us/learn/paths/get-started-with-artificial-intelligence-on-azure/) & AI Workshop
+  - [ ] [Git](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/)
+  - [ ] [1. Git Workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/1.%20Git%20workshop)
+  - [ ] [AI and Machine Learning](https://docs.microsoft.com/en-us/learn/paths/get-started-with-artificial-intelligence-on-azure/)
+  - [ ] [2. AI Workshop](//TODO_INSERT_LINK_HERE)
 - [ ] Week 2 (22 APR - 28 APR)
   - [ ] First half of [Python](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) (that's the first **6** modules)
 - [ ] Week 3 (29 APR - 5 MAY)
   - [ ] Second half of [Python](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) (that's the second **6** modules)
-  - [ ] Python Workshop
+  - [ ] [3. Python Workshop](//TODO_INSERT_LINK_HERE)
 - [ ] Week 4 (6 MAY - 12 MAY)
   - [ ] [RESTful APIs](https://docs.microsoft.com/en-us/learn/modules/build-web-api-minimal-api/)
-  - [ ] API Workshop
+  - [ ] [4. RESTful-API workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/4.%20RESTful-API%20workshop)
   - [ ] [Relational Databases](https://docs.microsoft.com/en-us/learn/modules/explore-relational-data-offerings/)
-  - [ ] Database Workshop
+  - [ ] [5. Relational DB workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/5.%20Relational%20DB%20workshop)
 - [ ] Week 5 (13 MAY - 19 MAY)
   - [ ] First half of [C-Sharp](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/) (that's the first **4** modules)
 - [ ] Week 6 (20 MAY - 26 MAY)
   - [ ] Second half of [C-Sharp](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/) (that's the second **4** modules)
-  - [ ] C-Sharp Workshop
+  - [ ] [6. C-Sharp workshop](//TODO_INSERT_LINK_HERE)
 - [ ] Week 7 (27 MAY - 2 JUN)
   - [ ] [HTML & CSS](https://docs.microsoft.com/en-us/learn/modules/build-simple-website/)
-  - [ ] HTML & CSS Workshop
+  - [ ] [7. HTML & CSS workshop](//TODO_INSERT_LINK_HERE)
 - [ ] Week 8 (3 JUN - 9 JUN)
   - [ ] [JavaScript](https://docs.microsoft.com/en-us/learn/paths/web-development-101/)
-  - [ ] JavaScript Workshop
+  - [ ] [8. JavaScript workshop](//TODO_INSERT_LINK_HERE)
 - [ ] Week 9 (10 JUN - 16 JUN)
   - [ ] [TypeScript](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-typescript/)
-  - [ ] TypeScript Workshop
+  - [ ] [9. TypeScript workshop](//TODO_INSERT_LINK_HERE)
 - [ ] Week 10 (17 JUN - 23 JUN)
   - [ ] [React](https://docs.microsoft.com/en-us/learn/paths/react/)
-  - [ ] React Workshop
+  - [ ] [10. React workshop](//TODO_INSERT_LINK_HERE)
 - [ ] Spend the next 4 days relaxing - you're done!!!
 
-<br>
+---
 
 ## Recommended Tools
 
@@ -111,6 +116,8 @@ As you go through and do these modules, you'll find that you need quite a few to
     - [ ] [Free License](https://www.jetbrains.com/community/education/#students) for students
   - [ ] [Visual Studio](https://visualstudio.microsoft.com/vs/community/) the c# IDE
   - [ ] [Fork](https://git-fork.com/) is meant to be paid, but it doesn't lock you out of anything if your trial expires so **shhhh**. Makes managing and visualising git much easier
+
+---
 
 ## Hot Tips
 

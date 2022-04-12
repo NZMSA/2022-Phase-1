@@ -83,7 +83,7 @@ We have also created small modular workshops for each section of MS Learn. **The
   - [ ] First half of [C-Sharp](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/) (that's the first **4** modules)
 - [ ] Week 6 (20 MAY - 26 MAY)
   - [ ] Second half of [C-Sharp](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/) (that's the second **4** modules)
-  - [ ] [6. C-Sharp workshop](//TODO_INSERT_LINK_HERE)
+  - [ ] [6. C-Sharp workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/6.%20C-Sharp%20workshop)
 - [ ] Week 7 (27 MAY - 2 JUN)
   - [ ] [HTML & CSS](https://docs.microsoft.com/en-us/learn/modules/build-simple-website/)
   - [ ] [7. HTML & CSS workshop](//TODO_INSERT_LINK_HERE)

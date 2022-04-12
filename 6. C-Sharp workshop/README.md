@@ -1,4 +1,4 @@
-# C# Assignment
+# C# workshop
 
 | Please fork the following Repo [2022-Phase-1-CSharp-Assignment](https://github.com/NZMSA/2022-Phase-1-CSharp-Assignment) |
 | --- |

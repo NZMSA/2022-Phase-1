@@ -1,4 +1,4 @@
-# MSA 2022 Github Workshop
+# MSA 2022 Github workshop
 
 Welcome to the Git Workshop! If you haven't already, please complete [this](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/) Microsoft Learn module before attempting this workshop.
 
@@ -10,10 +10,10 @@ If you haven't already, please download the Git-SCM [here](https://git-scm.com/)
 
 Now we are going to run through some basic git commands:
 
-1. Navigate to your desktop in file explorer and open up a terminal window (command prompt)
-2. Call `git clone https://github.com/NZMSA/2022-Phase-1.git`. This will clone the MSA Phase 1 repository to your local machine.
-3. Now you will want to run `cd 2022-Phase-1`. This will change your working directory to the repository that you just cloned.
-4. Call `git status`. This will show you the status of your local repository, which is a copy of the MSA Phase 1 repository on GitHub. It should look something like this:
+1.  Navigate to your desktop in file explorer and open up a terminal window (command prompt)
+2.  Call `git clone https://github.com/NZMSA/2022-Phase-1.git`. This will clone the MSA Phase 1 repository to your local machine.
+3.  Now you will want to run `cd 2022-Phase-1`. This will change your working directory to the repository that you just cloned.
+4.  Call `git status`. This will show you the status of your local repository, which is a copy of the MSA Phase 1 repository on GitHub. It should look something like this:
 
 ![Image](../images/2022-04-09-13-41-09.png)
 

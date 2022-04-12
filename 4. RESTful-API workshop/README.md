@@ -1,4 +1,4 @@
-# MSA 2022 RESTful API Workshop
+# MSA 2022 RESTful API workshop
 
 Welcome to the RESTful API Workshop. The goal for this workshop is for you to get familar with RESTful API concepts and have some hands on experience with interactive with an API. You will perform CRUD operations, that is, Create, Read, Update and Delete operations on an API that we have created. You may use any tools to interact with the API, such as JavaScript, Python and Postman.
 

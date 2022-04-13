@@ -1,4 +1,4 @@
-# HTML and CSS workshop
+# MSA 2022 HTML and CSS workshop
 
 Welcome to the HTML and CSS workshop. There are two parts to this workshop:
 
@@ -8,7 +8,7 @@ Welcome to the HTML and CSS workshop. There are two parts to this workshop:
 ## HTML
 HyperText Markup Language(HTML) is what the internet is fundamentally made out of. Each web page is made up of HTML elements.
 
-* Start by opening up the `msa.html` file
+* Start by opening up the `msa.html` file (double click the file and select the browser of your choice when prompted)
   * In this file, you will notice a few things. The `<!DOCTYPE html>` is at the top of each HTML file, and specifies that the file is HTML
   * `<head></head>` is the header of the HTML file. Each HTML element is represented with an _opening_ and _closing_ tag. This is because HTML elements can **contain** other HTML elements.
   * `<head></head>` contains the title of the page, and other metadata style info, such as related files, etc.

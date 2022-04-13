@@ -1,4 +1,4 @@
-# MSA 2022 Github Workshop
+# MSA 2022 Github workshop
 
 Welcome to the Git Workshop! If you haven't already, please complete [this](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/) Microsoft Learn module before attempting this workshop.
 

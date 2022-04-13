@@ -24,7 +24,7 @@ class Student extends Person {}
 // - age (optional)
 interface PersonInterface {}
 
-// Question 6 Create a Generic function to sort arrays of any type and concat them together.
+// Question 6 Create a Generic function to sort arrays of any type and concat them together. Any duplicates should be removed.
 function sortAndConcat() {}
 
 // Export the functions above so that they can be used in the tests.

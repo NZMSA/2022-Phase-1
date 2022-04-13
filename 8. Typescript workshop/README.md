@@ -81,7 +81,7 @@ Create a Interface called `PersonInterface` that has the following properties:
 The parameter `age` could be optional.
 
 ### Exercise 6:
-Create a Generic function called `sortAndConcat` that takes two arrays of any type and returns a new array with the elements sorted and concatenated. The function should return a new array.
+Create a Generic function called `sortAndConcat` that takes two arrays of any type and returns a new array with the elements sorted and concatenated. The function should return a new array. **Notice: You should also remove any duplicate elements from the new array.**
 
 > **Hint**: You can use `<T>` to specify the type of the generic parameter.
 
@@ -93,7 +93,9 @@ Once you have completed the assignment, you can run the tests by running the fol
 $ npm test
 ```
 
-If the tests pass, that means you have completed the assignment correctly :)
+If the tests pass, that means you have completed the assignment correctly :) You can refer to the images below to see what the correct output looks like.
+
+![picture 1](../images/tsTest.png)
 
 ## Extras
 If you would like too see the compiled output of the TypeScript compiler, you can run the following command in the command line:

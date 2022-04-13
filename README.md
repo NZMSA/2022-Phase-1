@@ -14,7 +14,7 @@ Please refer to this README for guidance. If you are unsure of anything please r
 
 **To pass Phase 1, students are required to complete / obtain 34,000 XP on your Microsoft Learn Account.**
 
-Sign up for Microsoft (MS) Learn [here](https://docs.microsoft.com/en-us/learn/) and start accumulating points by completeing the modules! Pick and choose modules which resonate with you or follow our recommended modules below!
+Sign up for Microsoft (MS) Learn [here](https://docs.microsoft.com/en-us/learn/) and start accumulating points by completing the modules! Pick and choose modules which resonate with you or follow our recommended modules below!
 
 ---
 

@@ -31,7 +31,7 @@ Fortunately, your years of training at the Microsoft Space Academy had a course 
 
 ## Exercise 1
 
-Your first task, like almost anything involving unfamilar data, is to see what it actually looks like and get it into a more usable form for further analysis. 
+Your first task, like almost anything involving unfamiliar data, is to see what it actually looks like and get it into a more usable form for further analysis. 
 
 **Investigate the transmission file provided by opening the file and inserting each line of the file into a list for later use, then printing it.**
 > Hint: Here's one way to [open CSV files](https://docs.python.org/3/library/csv.html#:~:text=A%20short%20usage%20example)

@@ -1,6 +1,6 @@
 # MSA 2022 SQL Relational DB Workshop
 
-Welcome to the SQL Relational DB Workshop. By now, you should be familiar with Basic Ralational Database and SQL queries.
+Welcome to the SQL Relational DB Workshop. By now, you should be familiar with Basic Relational Database and SQL queries.
 
 Here is an assignment to help you review those knowledge.
 

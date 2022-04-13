@@ -164,8 +164,24 @@ describe("testing index file", () => {
 
 describe("testing index file", () => {
   test("Question6 case2", () => {
+    const list1 = [1, 2, 3, 2];
+    const list2 = [3, 5, 6, 7];
+    expect(sortAndConcat(list1, list2)).toEqual([1, 2, 3, 5, 6, 7]);
+  });
+});
+
+describe("testing index file", () => {
+  test("Question6 case3", () => {
     const list1 = ["v", "a", "r"];
     const list2 = ["a", "b", "c"];
-    expect(sortAndConcat(list1, list2)).toEqual(["a", "a", "b", "c", "r", "v"]);
+    expect(sortAndConcat(list1, list2)).toEqual(["a", "b", "c", "r", "v"]);
+  });
+});
+
+describe("testing index file", () => {
+  test("Question6 case4", () => {
+    const list1 = ["a"]
+    const list2 = [null];
+    expect(sortAndConcat(list1, list2)).toEqual(["a", null]);
   });
 });

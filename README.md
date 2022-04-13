@@ -73,7 +73,7 @@ We have also created small modular workshops for each section of MS Learn. **The
   - [ ] First half of [Python](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) (that's the first **6** modules)
 - [ ] Week 3 (29 APR - 5 MAY)
   - [ ] Second half of [Python](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) (that's the second **6** modules)
-  - [ ] [3. Python Workshop](//TODO_INSERT_LINK_HERE)
+  - [ ] [3. Python Workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/2.%20Python%20workshop)
 - [ ] Week 4 (6 MAY - 12 MAY)
   - [ ] [RESTful APIs](https://docs.microsoft.com/en-us/learn/modules/build-web-api-minimal-api/)
   - [ ] [4. RESTful-API workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/4.%20RESTful-API%20workshop)

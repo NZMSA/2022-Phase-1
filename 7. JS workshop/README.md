@@ -1,10 +1,10 @@
-# MSA JS Workshop
+# MSA 2022 JS Workshop
 
 Welcome to the MSA JS workshop! This workshop will help you implement some basic JS scripting for a webpage.
 
 JS is a programming language that is used to create dynamic content on a webpage. It can be used to alter page elements, send alerts, call other code, etc.
 
-* Lets start by opening `js-workshop.html` in your browser
+* Lets start by opening `js-workshop.html` in your browser (double-click the file and select the browser of your choice when prompted)
   * Click the button labelled `Click Me!` - you should get an alert message!
   * This is because in `alerter.js`, there is a function called `sendAlert()` that is being called when the button is clicked!
   * The function sends an alert, which shows up as a popup on your browser when it is triggered

@@ -92,7 +92,7 @@ We have also created small modular workshops for each section of MS Learn. **The
   - [ ] [8. JavaScript workshop](//TODO_INSERT_LINK_HERE)
 - [ ] Week 9 (10 JUN - 16 JUN)
   - [ ] [TypeScript](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-typescript/)
-  - [ ] [9. TypeScript workshop](//TODO_INSERT_LINK_HERE)
+  - [ ] [9. TypeScript workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/9.%20Typescript%20workshop)
 - [ ] Week 10 (17 JUN - 23 JUN)
   - [ ] [React](https://docs.microsoft.com/en-us/learn/paths/react/)
   - [ ] [10. React workshop](//TODO_INSERT_LINK_HERE)

@@ -60,8 +60,6 @@ To help you out, we've created a schedule which will allow you to complete all o
 
 We have also created small modular workshops for each section of MS Learn. **These workshops intended for you to solidify your understanding and are optional. To pass Phase 1 all you will have to do is obtain 34,000 MS learn XP on your account.**
 
---TODO: Hyperlink the workshops here when done--
-
 ### Checklist :white_check_mark:
 
 - [ ] Week 1 (15 APR - 21 APR)
@@ -85,10 +83,10 @@ We have also created small modular workshops for each section of MS Learn. **The
   - [ ] [5. C# workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/5.%20C%23%20workshop)
 - [ ] Week 7 (27 MAY - 2 JUN)
   - [ ] [HTML & CSS](https://docs.microsoft.com/en-us/learn/modules/build-simple-website/)
-  - [ ] [6. HTML & CSS workshop](//TODO_INSERT_LINK_HERE)
+  - [ ] [6. HTML & CSS workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/6.%20HTML%2BCSS%20workshop/README.md)
 - [ ] Week 8 (3 JUN - 9 JUN)
   - [ ] [JavaScript](https://docs.microsoft.com/en-us/learn/paths/web-development-101/)
-  - [ ] [7. JavaScript workshop](//TODO_INSERT_LINK_HERE)
+  - [ ] [7. JavaScript workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/7.%JS%20workshop)
 - [ ] Week 9 (10 JUN - 16 JUN)
   - [ ] [TypeScript](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-typescript/)
   - [ ] [8. TypeScript workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/8.%20Typescript%20workshop)

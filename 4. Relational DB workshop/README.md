@@ -1,8 +1,8 @@
 # MSA 2022 SQL Relational DB Workshop
 
-Welcome to the SQL Relational DB Workshop. By now, you should be familiar with Basic Ralational Database and SQL queries.
+Welcome to the SQL Relational DB Workshop. By now, you should be familiar with Basic Relational Database and SQL queries.
 
-Here is an assignment to help you review those knowledge.
+Here is an assignment to help you review your knowledge.
 
 > 1. Write an SQL statement that lists school names, student names, and their cities only if the school and the student are in the same city and the student is not from New York.
 

@@ -14,7 +14,7 @@ Please refer to this README for guidance. If you are unsure of anything please r
 
 **To pass Phase 1, students are required to complete / obtain 34,000 XP on your Microsoft Learn Account.**
 
-Sign up for Microsoft (MS) Learn [here](https://docs.microsoft.com/en-us/learn/) and start accumulating points by completeing the modules! Pick and choose modules which resonate with you or follow our recommended modules below!
+Sign up for Microsoft (MS) Learn [here](https://docs.microsoft.com/en-us/learn/) and start accumulating points by completing the modules! Pick and choose modules which resonate with you or follow our recommended modules below!
 
 ---
 
@@ -83,10 +83,10 @@ We have also created small modular workshops for each section of MS Learn. **The
   - [ ] [5. C# workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/5.%20C%23%20workshop)
 - [ ] Week 7 (27 MAY - 2 JUN)
   - [ ] [HTML & CSS](https://docs.microsoft.com/en-us/learn/modules/build-simple-website/)
-  - [ ] [6. HTML & CSS workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/6.%20HTML%2BCSS%20workshop/README.md)
+  - [ ] [6. HTML & CSS workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/6.%20HTML%2BCSS%20workshop)
 - [ ] Week 8 (3 JUN - 9 JUN)
   - [ ] [JavaScript](https://docs.microsoft.com/en-us/learn/paths/web-development-101/)
-  - [ ] [7. JavaScript workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/7.%JS%20workshop)
+  - [ ] [7. JavaScript workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/7.%20JS%20workshop)
 - [ ] Week 9 (10 JUN - 16 JUN)
   - [ ] [TypeScript](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-typescript/)
   - [ ] [8. TypeScript workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/8.%20Typescript%20workshop)

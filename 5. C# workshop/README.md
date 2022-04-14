@@ -4,7 +4,7 @@
 | --- |
 
 
-Welcome to the C# Workshop. The goal for this assignment is for you to get familar with C# concepts and have some hands on experience with C# and dotnet. You will be completing the missing code in this CLI application and fix up the code to pass the existing unit tests. If you haven't already, please complete [Microsoft Learn Path](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/) before attempting this workshop.
+Welcome to the C# Workshop. The goal for this assignment is for you to get familiar with C# concepts and have some hands on experience with C# and dotnet. You will be completing the missing code in this CLI application and fix up the code to pass the existing unit tests. If you haven't already, please complete [Microsoft Learn Path](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/) before attempting this workshop.
 
 Pre-requisites:
 * .NET 6 - [Download](https://dotnet.microsoft.com/en-us/download)

@@ -86,7 +86,7 @@ We have also created small modular workshops for each section of MS Learn. **The
   - [ ] [6. HTML & CSS workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/6.%20HTML%2BCSS%20workshop)
 - [ ] Week 8 (3 JUN - 9 JUN)
   - [ ] [JavaScript](https://docs.microsoft.com/en-us/learn/paths/web-development-101/)
-  - [ ] [7. JavaScript workshop](https://github.com/NZMSA/2022-Phase-1/blob/main/7.%20JS%20workshop)
+  - [ ] [7. JavaScript workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/7.%20JS%20workshop)
 - [ ] Week 9 (10 JUN - 16 JUN)
   - [ ] [TypeScript](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-typescript/)
   - [ ] [8. TypeScript workshop](https://github.com/NZMSA/2022-Phase-1/tree/main/8.%20Typescript%20workshop)

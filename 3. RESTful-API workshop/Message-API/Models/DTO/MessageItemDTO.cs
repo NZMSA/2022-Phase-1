@@ -1,8 +1,7 @@
-namespace MessageAPI.Models.DTO
+namespace MessageAPI.Models.DTO;
+
+public class MessageItemDTO
 {
-    public class MessageItemDTO
-    {
-        public int Id { get; set; }
-        public string ? MainMessage { get; set; }
-    }
+    public int Id { get; set; }
+    public string? MainMessage { get; set; }
 }

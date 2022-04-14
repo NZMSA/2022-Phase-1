@@ -12,6 +12,7 @@ builder.Services.AddSwaggerGen(c =>
 {
    c.SwaggerDoc("v1", new() { Title = "MessageAPI", Version = "v1" });
 });
+builder.Services.AddLogging();
 
 var app = builder.Build();
 
@@ -26,6 +27,7 @@ app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "MessageAPI 
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
+app.UseHttpLogging();
 
 app.MapControllers();
 

@@ -27,14 +27,8 @@ public class MessageItemController : ControllerBase
     public async Task<ActionResult<IEnumerable<MessageItemDTO>>> GetMessageItems()
     {
         var messageItems = await _context.MessageItems.ToListAsync();
-        var messageItemDtos = new MessageItemDTO[messageItems.Count];
-        for (int i = 0; i < messageItems.Count; i++)
-        {
-            messageItemDtos[i] = new MessageItemDTO
-                { Id = messageItems[i].Id, MainMessage = messageItems[i].MainMessage };
-        }
-
-        return messageItemDtos;
+        return messageItems.Select(messageItem => new MessageItemDTO
+            { Id = messageItem.Id, MainMessage = messageItem.MainMessage }).ToArray();
     }
 
     /// <summary>

@@ -44,12 +44,12 @@ Here is an assignment to help you review your knowledge.
 
 **Table: student**
 
-| student_id | student_name   | city          | school_id |
-| ---------- | -------------- | ------------- | --------- |
-| 2001       | Thurman Thorn  | New York      | 11        |
-| 2002       | Sharda Clemens | San Francisco | 12        |
-| 2003       | Buck Elkins    | New York      | 13        |
-| 2004       | Fabian Johns   | Boston        | 15        |
-| 2005       | Brad Cameron   | Stanford      | 11        |
-| 2006       | Sofia Roles    | Boston        | 16        |
-| 2007       | Rory Pietila   | New Haven     | 12        |
+| student_id | student_name   | city          | subject_id |
+| ---------- | -------------- | ------------- | ---------- |
+| 2001       | Thurman Thorn  | New York      | 11         |
+| 2002       | Sharda Clemens | San Francisco | 12         |
+| 2003       | Buck Elkins    | New York      | 13         |
+| 2004       | Fabian Johns   | Boston        | 15         |
+| 2005       | Brad Cameron   | Stanford      | 11         |
+| 2006       | Sofia Roles    | Boston        | 16         |
+| 2007       | Rory Pietila   | New Haven     | 12         |

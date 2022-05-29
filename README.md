@@ -1,5 +1,7 @@
 # :fire: MSA Phase 1 2022 :fire:
 
+##  [Submission form opened](https://forms.office.com/r/QD5RbMbV6A)
+
 ## :tada: :sparkles: Welcome students to Phase 1 :sparkles: :tada:
 
 Welcome to the first phase of the Microsoft Student Accelerator for 2022!
@@ -9,6 +11,7 @@ This repository contains all the necessary material to complete Phase 1 of the p
 Please refer to this README for guidance. If you are unsure of anything please reach out in our Discord channel and one of our handy-dandy MSP's are more than happy to help you out :simple_smile:
 
 ---
+
 
 ## Phase 1 Requirements :pencil:
 

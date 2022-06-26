@@ -1,4 +1,8 @@
 body {
-    background-color: beige;
-    color: #800080;
+    background-color: purple;
+    color: #FFFFFF;
 }
+ li {
+background-color: #DBF9FC;
+}
+button {background-color: #4CAF50;}

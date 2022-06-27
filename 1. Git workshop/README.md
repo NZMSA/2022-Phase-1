@@ -58,3 +58,4 @@ Go through the git command documentation - which you can find [here](https://git
 Remove the current **remote** that your local repository is connected to (Which belongs to MSA) and replace it with a remote that you own. Then push your changes to that new remote.
 
 You will want to start [here](https://git-scm.com/docs/git-remote) for the command documentation, and you will want to go [here](https://stackoverflow.com/questions/2432764/how-to-change-the-uri-url-for-a-remote-git-repository) for an example of how to do it. Good luck!
+

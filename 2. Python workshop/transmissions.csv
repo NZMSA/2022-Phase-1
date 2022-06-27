@@ -13,3 +13,30 @@ id, transmission
 11, 3.9.785..92.38.5-7-354
 6, 2.95-9.3-.51.89.5-7.55.63
 20, 75.2-4.56.-834-.49-87-43
+from pprint import pprint # for printing data structures in a prettier way
+
+transmissions = []
+with open("transmissions.csv") as file:
+    for line in file:
+        line = line.strip()
+        transmissions.append(line.split(","))
+pprint(transmissions)
+transmissions.pop(0)
+ids = [row[0] for row in transmissions]
+transmissions = [row[1] for row in transmissions]
+sums = []
+for t in transmissions:
+    current_sum = 0
+    for char in t:
+        try:
+            current_sum += int(char)
+        except:
+            continue
+    sums.append(current_sum)
+print(sums)
+freq_dict = {int(ids[i]):sums[i] for i in range(len(ids))}
+freq_tuples = sorted(freq_dict.items())
+message = ""
+for item in freq_tuples:
+    message += chr(item[1])
+print(message)
